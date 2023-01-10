@@ -1,0 +1,14 @@
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\bin\Debug\tessssttt.exe.config
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\bin\Debug\tessssttt.exe
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\bin\Debug\tessssttt.pdb
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\bin\Debug\tessssttt.xml
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\obj\Debug\tessssttt.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\obj\Debug\tessssttt.Form1.resources
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\obj\Debug\tessssttt.Resources.resources
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\obj\Debug\tessssttt.Resource1.resources
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\obj\Debug\tessssttt.Resource2.resources
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\obj\Debug\tessssttt.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\obj\Debug\tessssttt.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\obj\Debug\tessssttt.exe
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\obj\Debug\tessssttt.xml
+C:\Users\MONSTERMC\source\repos\tessssttt\tessssttt\obj\Debug\tessssttt.pdb
